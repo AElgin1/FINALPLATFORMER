@@ -1,2 +1,2 @@
-# FINALPLATFORMER
-project 5 attempt 100000
+# JSPlatformer
+JS Platformer for DIG 3480C
